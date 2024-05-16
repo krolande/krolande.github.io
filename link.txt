@@ -1,0 +1,3 @@
+https://hygraph.com/learn/graphql/authentication-and-authorization 
+https://stepzen.com/blog/validating-jwt-tokens-with-sequence
+https://www.geeksforgeeks.org/authentication-and-authorization-with-jwt-in-a-graphql/
